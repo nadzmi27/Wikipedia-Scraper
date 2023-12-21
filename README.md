@@ -1,4 +1,2 @@
 # Wikipedia-Scraper
-To be added
-
-https://wikipedia-scraper.streamlit.app/
+[🧹Wikipedia Scraper](https://wikipedia-scraper.streamlit.app/)
