@@ -9,6 +9,14 @@ import streamlit as st
 import Scraper
 import pandas as pd
 
+# Set page title
+st.set_page_config(
+    page_title="Wikipedia Scraper",
+    page_icon=":broom:",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
 # ================
 # Define functions
 
