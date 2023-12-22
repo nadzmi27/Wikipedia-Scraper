@@ -41,7 +41,7 @@ st.write(
     "Wikipedia Scraper will turn list of Wikipedia pages into **.csv** files \
     containing all the necessary information. The data scraped then can be \
     used for task such as NLP. For more information please visit my \
-    [github repo](https://www.youtube.com/watch?v=BbeeuzU5Qc8)\
+    [github repo](https://github.com/nadzmi27/Wikipedia-Scraper)\
     \n\nTo get started, upload a **.csv** file with a column named **link** \
     containing the links to Wikipedia pages (1 link per row). \
     Other column beside **link** will be included in the final dataframe. \
